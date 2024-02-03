@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;}
+
+    nav{
+    background-color: #fbec5d ;
+    color: green;
+    padding:20px;
+}
+li,ul,h1{
+    display:inline;
+}
+li:hover{
+    color:red;
+    cursor:pointer;
+}
+ul{
+    margin-left:50%;
+}
+
+input{
+    display:block;
+    width:80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding:10px;
+    margin-top:10px;
+}
+.Products{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.box{
+    display:inline-block;width:300px;
+    height:400px;
+    border-style: solid;
+    border-color: green;
+    background-color:#fbec5d;
+
+}
+div.box:hover{
+    background-color:green;
+    color:#fbec5d;
+}
+div.about{
+    margin-top:40px;
+    text-align: center;
+    margin-bottom: 40px;;
+}
+
+.contact{
+    text-align: center;
+    background-color: #fbec5d;
+    color:black;
+    padding:40px;
+}
+.one:hover{
+    color:red;}
+
+    .two:hover{
+        color:red;}
